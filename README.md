@@ -24,9 +24,9 @@ End the game with the most points.
 - Cards that are not Trump and not Lead Suit are unable to win.
 - If two cards match suit, the one that has the highest value wins.
 - Within a suit, 2 is lowest, Ace is highest.
-
+  
 ## Glossary
 - Lead Suit : First card played in a sub round. Resets after a player takes a trick.
 - Trump Suit : The suit of the Trump Card, the suit that is the most powerful this round. Changes each round.
 - Trick : If you have the highest cards in a sub round, you take all the cards and call the stack a "trick"
--  
+  
